@@ -12,5 +12,13 @@ int main()
 
     printf("Line 5\n"); // Sean did this 
 
-    // Put line 6 here
+    printf("Can you do CLion?"); // And he'll do it again
+
+    printf("ACCEPT THIS YOU ASS");
+
+    printf("PAKYOW PONZEH ACCEPT THIS YOU COMPLETE AND UTTER ASS");
+
+    printf("CLION Test Geo");
+
+    printf("Test Branch");
 }
