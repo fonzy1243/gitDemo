@@ -13,4 +13,6 @@ int main()
     printf("Line 5\n"); // Sean did this 
 
     printf("Can you do CLion?"); // And he'll do it again
+
+    printf("ACCEPT THIS YOU ASS");
 }
