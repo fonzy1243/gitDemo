@@ -8,7 +8,7 @@ int main()
 
     // Put line 3 here 
 
-    // Put line 4 here
+    printf("Super idol\n"); //Lars did this
 
     printf("Line 5\n"); // Sean did this 
 
