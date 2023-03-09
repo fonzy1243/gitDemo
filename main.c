@@ -17,4 +17,6 @@ int main()
     printf("ACCEPT THIS YOU ASS");
 
     printf("PAKYOW PONZEH ACCEPT THIS YOU COMPLETE AND UTTER ASS");
+
+    printf("CLION Test Geo");
 }
