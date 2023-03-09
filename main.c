@@ -6,7 +6,7 @@ int main()
 
     // Put line 2 here
 
-   printf("Super idol\n");//Lars did this
+    printf("Im so confused\n");//Lars did this
 
     printf("eeP\n"); // Pee
 
