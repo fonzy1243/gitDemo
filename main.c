@@ -6,9 +6,9 @@ int main()
 
     // Put line 2 here
 
-    // Put line 3 here 
+   printf("Super idol\n");//Lars did this
 
-    printf("Super idol\n"); //Lars did this
+    printf("eeP\n"); // Pee
 
     printf("Line 5\n"); // Sean did this 
 
