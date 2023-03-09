@@ -21,4 +21,6 @@ int main()
     printf("CLION Test Geo");
 
     printf("Test Branch");
+
+	printf("Open where you cloned the repo in CLion.");
 }
