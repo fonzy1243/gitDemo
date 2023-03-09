@@ -15,4 +15,6 @@ int main()
     printf("Can you do CLion?"); // And he'll do it again
 
     printf("ACCEPT THIS YOU ASS");
+
+    printf("PAKYOW PONZEH ACCEPT THIS YOU COMPLETE AND UTTER ASS");
 }
