@@ -10,7 +10,7 @@ int main()
 
     // Put line 4 here
 
-    // Put line 5 here
+    printf("Line 5\n"); // Sean did this 
 
     // Put line 6 here
 }
