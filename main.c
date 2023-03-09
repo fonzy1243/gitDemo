@@ -24,7 +24,10 @@ int main()
 
 	printf("Open where you cloned the repo in CLion.");
 
-    printf("im stupid as hell frfr");
+   
 
-    printf("Absolutely still confused");
+
+
+
+   printf("im a dumbass");
 }
