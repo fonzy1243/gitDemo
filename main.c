@@ -23,4 +23,11 @@ int main()
     printf("Test Branch");
 
 	printf("Open where you cloned the repo in CLion.");
+
+   
+
+
+
+
+   printf("im a dumbass");
 }
