@@ -4,7 +4,7 @@ int main()
 {
     printf("Line 1\n");
 
-    // Put line 2 here
+    printf("Still hella confused");//Lars also did this
 
     printf("Im so confused\n");//Lars did this
 
